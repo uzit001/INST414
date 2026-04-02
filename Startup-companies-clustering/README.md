@@ -67,7 +67,7 @@ Correlation ≠ causation: Acquisition rate differences describe patterns, not m
 
 📝 Medium Post
 Read the full write-up and analysis here:
-🔗 (Add your Medium post URL here after publishing)
+🔗 https://medium.com/@uzzamtariq/58ffd97c80d6
 
 👤 Author
 uzit001 | INST414 – Data Science Techniques
