@@ -21,7 +21,7 @@ Public Montgomery County Crime Dataset
 - High-incident periods predicted with ~79% accuracy
 
 ## Medium Article
-[Insert link]
+https://medium.com/inst414-data-science-tech/ebea2b370d9c
 
 ## Reproducibility
 pip install -r requirements.txt
