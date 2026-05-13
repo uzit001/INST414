@@ -1,13 +1,27 @@
-# Montgomery County Crime Temporal Analysis (2025)
-This repository contains an exploratory data analysis of reported crime incidents
-in Montgomery County, MD, focusing on temporal patterns by hour of day and day of week.
+# From Patterns to Prediction: Identifying High-Risk Time Periods in Montgomery County Crime Data
 
-## Files
-- `moco_temporal_analysis.ipynb`: Jupyter notebook containing data cleaning,
-  exploratory analysis, and visualizations.
+## Motivating Question
+Can temporal patterns in crime data be used to identify and predict high-incident time periods?
+
+## Stakeholder
+Montgomery County Police Department
 
 ## Data Source
-Public Montgomery County crime dataset (downloaded as CSV).
+Public Montgomery County Crime Dataset
 
-## Notes
-This analysis is exploratory and does not attempt to infer causality or predict crime.
+## Methods
+- Exploratory Data Analysis
+- K-Means Clustering
+- Logistic Regression
+- Model Evaluation
+
+## Key Results
+- Crime peaks in the afternoon
+- Three temporal clusters identified
+- High-incident periods predicted with ~79% accuracy
+
+## Medium Article
+[Insert link]
+
+## Reproducibility
+pip install -r requirements.txt
